@@ -1,6 +1,7 @@
 {
-  "name": "upstash-roadmap",
+  "name": "feedcard-frontend",
   "version": "0.0.1",
+  "description": "voting roadmap app for your project",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -25,5 +26,16 @@
     "postcss": "^8.2.9",
     "prettier": "^2.2.1",
     "tailwindcss": "^2.1.0"
-  }
+  },
+  "keywords": [
+    "Roadmap",
+    "Voting",
+    "React.js"
+  ],
+  "author": "Sadegh Mohebbi <mohebbi.sadegh@gmail.com>",
+  "repository": {
+    "url": "git+https://github.com/sadeghmohebbi/feedcard-frontend",
+    "type": "git"
+  },
+  "homepage": "https://github.com/sadeghmohebbi/feedcard-frontend"
 }
